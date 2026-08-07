@@ -1,0 +1,1 @@
+SELECT * FROM esg_data;
