@@ -29,7 +29,8 @@ ESG dashboards frequently compare companies on headline metrics without accounti
 
 ## Dashboard Preview
 
-*(Insert Executive Summary and Carbon Footprint page screenshots here)*
+![Executive Summary](Power%20BI/Dashboard%20Screenshots/01_executive_summary.png)
+![Carbon Footprint](Power%20BI/Dashboard%20Screenshots/02_carbon_footprint.png)
 
 The dashboard spans six pages: Executive Summary, Carbon Footprint, Energy Transition, Resource Stewardship, Climate Strategy, and Cross-Industry Insights. Full page-by-page screenshots are in [`/Power BI/Dashboard Screenshots`](/Power%20BI/Dashboard%20Screenshots).
 
