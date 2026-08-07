@@ -1,11 +1,10 @@
-# How Amazon, Google & Microsoft Measure Sustainability Differently
-### An ESG Benchmarking Project (FY2025)
+# Benchmarking Sustainability Reporting Across Amazon, Microsoft & Google (FY2025)
 
 Amazon, Microsoft, and Google all report ambitious climate targets and claim significant progress toward sustainable operations. Yet many of the metrics used to evaluate that progress — carbon intensity, renewable energy, water stewardship, Scope 3 emissions — are measured using different methodologies and reporting boundaries.
 
 **This project asks a simple question: are these sustainability claims actually comparable, and if not, what does comparing them properly reveal?**
 
-Using FY2025 sustainability disclosures, a normalized SQL dataset, and a 6-page Power BI dashboard, this project benchmarks the environmental performance of the three largest hyperscale cloud providers — while explicitly documenting where comparisons are valid and where they aren't.
+The project combines manual sustainability report review, data normalization, SQL analysis, and Power BI visualization to evaluate both environmental performance and reporting comparability.
 
 **[Full Findings & Q&A Detail](/Documentation/Full_Report.md) · [SQL Queries](/SQL) · [Dashboard File](/Power%20BI)**
 
@@ -56,7 +55,7 @@ Full findings for all 16 business questions, organized by theme, are documented 
 5. 6-page Power BI dashboard
 6. Analyst findings & recommendations
 
-**Comparability framework:** every metric carries a `comparable` flag (Yes/No/Missing), a `reason`, and a `confidence` rating (High/Medium/Low). This framework — not the dashboard — is the real backbone of the project: it's what let questions like "are these renewable claims comparable?" get answered with evidence instead of assumption.
+**Comparability framework:** every metric carries a `comparable` flag (Yes/No/Missing), a `reason`, and a `confidence` rating (High/Medium/Low). **This framework — not the dashboard — is the real backbone of the project**: it's what let questions like "are these renewable claims comparable?" get answered with evidence instead of assumption.
 
 ## Business Questions
 
@@ -93,11 +92,20 @@ Not every question is answerable by SQL alone — several (Q4, Q6, Q8, Q10, Q11)
 
 ## Tools & Skills Demonstrated
 
-- **Excel** — data extraction, cleaning, and normalization across three primary sources
-- **SQLite / SQL** — aggregation, window functions, comparability filtering, normalized schema design
-- **DB Browser for SQLite** — database management
-- **Power BI** — KPI dashboards, interactive navigation, executive-level reporting
-- **ESG domain knowledge** — GHG Protocol, Scope 1/2/3 analysis, renewable energy accounting, water/waste metrics
+## Tools
+
+- Excel
+- SQLite / SQL
+- DB Browser for SQLite
+- Power BI
+
+## Skills Demonstrated
+
+- ESG benchmarking and comparability assessment
+- Data normalization and schema design
+- SQL analytics (aggregation, filtering, window functions)
+- Executive dashboard design
+- Sustainability reporting analysis (GHG Protocol, Scope 1/2/3, renewable energy accounting)
 
 ## Cross-Industry Insights
 
