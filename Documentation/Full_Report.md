@@ -38,7 +38,7 @@ All figures were extracted from primary-source disclosures, with page/table refe
 
 **Q5 — Total energy consumption:** Google (44.05M MWh) > Microsoft (37.46M MWh). Amazon excluded — genuine disclosure gap, not a low-usage signal.
 
-**Q6 — Renewable claims comparability:** Not comparable. Amazon/Google use annual matching (100%); Microsoft's headline includes grid-mix (comparable figure 93.3%); Google's hourly-matched CFE metric shows only 65%.
+**Q6 — Renewable claims comparability:** Not comparable. Amazon/Google use annual matching (100%); Microsoft's headline 100% includes grid mix (93.3% when calculated from its Table 5 as matched renewable electricity ÷ electricity consumption, excluding grid mix); Google's hourly-matched CFE metric shows only 65%.
 
 **Q7 — Data center efficiency (PUE):** Google (1.09) < Amazon (1.14) < Microsoft (1.17). All well below industry average (~1.55).
 
