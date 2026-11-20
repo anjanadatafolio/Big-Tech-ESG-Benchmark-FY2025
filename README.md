@@ -37,7 +37,7 @@ The dashboard spans six pages: Executive Summary, Carbon Footprint, Energy Trans
 
 - **Amazon emitted ~4x more** than Google and Microsoft (80.85 vs. 18.85 / 21.12 MMT CO₂e), reflecting its combined logistics and cloud operations — and has the highest carbon intensity per revenue dollar (112.8 g/$) of the three.
 - **Google had the lowest carbon intensity and best data center efficiency (PUE 1.09)** — but efficiency gains across the industry are being outpaced by AI-driven demand growth, not offsetting it (Google: ~37% YoY electricity demand growth; Microsoft: 25% YoY emissions increase from datacenter expansion).
-- **"100% renewable electricity" is not one methodology.** Amazon and Google use annual matching; Microsoft's headline includes grid-mix (comparable figure: 93.3%); Google's own stricter hourly-matched metric shows only 65% real-time coverage.
+- **"100% renewable electricity" is not one methodology.** Amazon and Google use annual matching; Microsoft's headline 100% includes grid mix (93.3% when calculated from its Table 5 as matched renewable electricity ÷ electricity consumption, excluding grid mix); Google's own stricter hourly-matched metric shows only 65% real-time coverage.
 - **Microsoft set the most ambitious climate target** (carbon-negative by 2030) — while carrying the steepest near-term emissions trend (Scope 2 up >10x year-over-year).
 - **No single company leads on all three dimensions** — operational scale, reporting rigor, and target ambition. Each made a distinct trade-off.
 
