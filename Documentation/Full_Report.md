@@ -14,7 +14,7 @@ Amazon, Microsoft, and Google all publicly commit to net-zero (or stricter) clim
 | Microsoft | 2026 Environmental Sustainability Report + Data Fact Sheet + 10-K | Fiscal Year (Jul 1, 2024 – Jun 30, 2025) |
 | Google | 2026 Environmental Report (FY2025 data) + Alphabet 2025 Annual Report / SEC filing | Calendar Year (Jan 1 – Dec 31, 2025) |
 
-All figures were extracted from primary-source disclosures, with page/table references logged in the project's Research Log. Where a figure could not be traced to a primary source, it is flagged `confidence = Low` rather than presented as equivalent to directly-disclosed data.
+Most figures were extracted directly from primary-source disclosures, with page/table references logged in the project's Research Log. A small number are analyst-calculated or unit-converted (Google's GHGP-aligned carbon intensity, Microsoft's matched renewable electricity percentage and waste diversion rate, and Google's water volumes converted from gallons); these are documented as calculated or converted in the Master Dataset. Where a figure could not be traced to a primary source, it is flagged `confidence = Low` rather than presented as equivalent to directly-disclosed data.
 
 ## 3. Methodology
 
