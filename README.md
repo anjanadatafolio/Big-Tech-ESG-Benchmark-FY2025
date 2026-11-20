@@ -22,7 +22,7 @@ ESG dashboards frequently compare companies on headline metrics without accounti
 | Primary sustainability reports reviewed | 3 |
 | Data points collected | 98 |
 | Business questions answered | 16 |
-| SQL queries written | 16 |
+| SQL queries written | 12 (covering 13 of the 16 questions) |
 | Dashboard pages | 6 |
 | Reporting period | FY2025 |
 
@@ -51,7 +51,7 @@ Full findings for all 16 business questions, organized by theme, are documented 
 1. Primary sustainability report review → page-referenced Research Log
 2. Data extraction & normalization → Master Dataset, Comparability Log, Restatement Log
 3. SQLite database (98 rows, typed columns, true NULLs for undisclosed metrics)
-4. 16 SQL business questions, each with a documented Finding
+4. 16 business questions answered, 13 with a SQL query and 3 as qualitative synthesis, each with a documented Finding
 5. 6-page Power BI dashboard
 6. Analyst findings & recommendations
 
@@ -66,7 +66,7 @@ Full findings for all 16 business questions, organized by theme, are documented 
 | Resource Stewardship | Q9–Q12 |
 | Climate Strategy | Q13–Q16 |
 
-Not every question is answerable by SQL alone — several (Q4, Q6, Q8, Q10, Q11) are hybrid (a query-derived chart plus labeled narrative context), and Q14–Q16 are qualitative synthesis, documented as such rather than forced into a query that doesn't exist. Full queries and findings: [`/SQL`](/SQL) and [`/Documentation/Full_Report.md`](/Documentation/Full_Report.md).
+Not every question is answerable by SQL alone — several (Q4, Q6, Q8, Q10, Q11) are hybrid (a query-derived chart plus labeled narrative context), and Q14–Q16 are qualitative synthesis, documented as such rather than forced into a query that doesn't exist. Q8 reuses the Q5 query, so the SQL folder has 12 query files (q01 to q13, with no q08). Full queries and findings: [`/SQL`](/SQL) and [`/Documentation/Full_Report.md`](/Documentation/Full_Report.md).
 
 ## Business Recommendations
 
